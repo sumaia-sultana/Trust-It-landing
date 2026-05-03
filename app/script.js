@@ -82,6 +82,8 @@ function updateActiveNav() {
 window.addEventListener("scroll", updateActiveNav);
 window.addEventListener("load", updateActiveNav);
 
+
+
 //  Form Validation
 const form = document.getElementById("contactForm");
 

@@ -34,14 +34,14 @@
 ## 📂 Project Structure
 ```
 
-TRUST-IT LANDING/
-│── app/
-│ └── images/
-│   ── (all images here)
-│── index.html
-│── index.css
-│── script.js
-│── README.md
+          TRUST-IT LANDING/
+          │── app/
+          │ └── images/
+          │   ── (all images here)
+          │── index.html
+          │── index.css
+          │── script.js
+          │── README.md
 
 ```
 ---
