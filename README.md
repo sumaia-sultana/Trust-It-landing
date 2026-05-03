@@ -19,15 +19,16 @@
 - Contact form for client inquiries
 - Smooth scrolling navigation
 - Clean and maintainable code structure
+- Images stored in a dedicated folder
+- Organized folder structure
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3 / Tailwind CSS**
+- **CSS3 & Tailwind CSS**
 - **JavaScript (Vanilla JS)**
-- Optional: AOS / Framer Motion (if used)
 
 ---
 
@@ -44,17 +45,6 @@
           │── README.md
 
 ```
----
-
-## 🚀 Features
-
-- Clean and modern UI design
-- Fully responsive layout
-- Organized folder structure
-- Smooth navigation and interaction
-- Separate CSS and JavaScript files for maintainability
-- Image assets stored in a dedicated folder
-- Easy to customize and extend
 
 ---
 
@@ -73,7 +63,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/trustit.git
+git clone https://github.com/sumaia-sultana/Trust-It-landing.git
 
 # Open the project folder
 cd TRUST-IT LANDING
