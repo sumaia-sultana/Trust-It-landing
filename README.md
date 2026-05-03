@@ -14,7 +14,7 @@
 - Responsive landing page (mobile, tablet, desktop)
 - Modern UI with Tailwind CSS
 - Dark mode support (if enabled in your project)
-- Service showcase section
+- Service showcase section with API Integration
 - About section with company overview
 - Contact form for client inquiries
 - Smooth scrolling navigation
@@ -42,6 +42,7 @@
           │── index.html
           │── index.css
           │── script.js
+          ├── services.js
           │── README.md
 
 ```

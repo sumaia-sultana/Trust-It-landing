@@ -121,3 +121,27 @@ form.addEventListener("submit", function(e) {
     form.reset();
   }
 });
+
+
+// services.js / data fetching
+
+
+// const servicesContainer = document.getElementById("services-container");
+
+// servicesContainer.innerHTML = services.map(service => `
+//   <div class="p-8 rounded-2xl bg-slate-50 dark:bg-slate-800 border border-slate-100 dark:border-slate-700 hover:border-blue-200 hover:shadow-lg transition-all">
+    
+//     <div class="w-12 h-12 bg-white dark:bg-slate-700 rounded-xl flex items-center justify-center shadow-sm mb-6 border border-slate-100 dark:border-slate-600">
+//       ${service.icon}
+//     </div>
+
+//     <h3 class="text-xl font-bold mb-3 text-slate-900 dark:text-white">
+//       ${service.title}
+//     </h3>
+
+//     <p class="text-slate-600 leading-relaxed text-sm dark:text-slate-300">
+//       ${service.description}
+//     </p>
+
+//   </div>
+// `).join("");
