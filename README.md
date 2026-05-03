@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-[Add your deployed link here]
+(https://trust-it-7a8bec.netlify.app/)
 
 ---
 
@@ -63,10 +63,6 @@ TRUST-IT LANDING/
 - CSS3
 - TailwindCSS
 - JavaScript (Vanilla JS)
-
----
-
-## ⚙️ How to Run the Project
 
 ---
 
