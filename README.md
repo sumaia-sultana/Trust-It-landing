@@ -32,6 +32,7 @@
 ---
 
 ## 📂 Project Structure
+```
 
 TRUST-IT LANDING/
 │── app/
@@ -42,7 +43,7 @@ TRUST-IT LANDING/
 │── script.js
 │── README.md
 
-
+```
 ---
 
 ## 🚀 Features
