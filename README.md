@@ -28,6 +28,7 @@
 
 - **HTML5**
 - **CSS3 & Tailwind CSS**
+-  **TailwindCSS**
 - **JavaScript (Vanilla JS)**
 
 ---
@@ -46,15 +47,6 @@
           │── README.md
 
 ```
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- TailwindCSS
-- JavaScript (Vanilla JS)
 
 ---
 
