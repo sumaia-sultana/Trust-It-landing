@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-(https://trust-it-29cb51.netlify.app/)
+(https://trust-it-29bea0.netlify.app/)
 
 ---
 
