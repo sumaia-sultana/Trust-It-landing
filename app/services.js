@@ -4,39 +4,49 @@
   {
     id: "service-001",
     title: "Web Development",
-    description: "Modern, responsive, and scalable websites built to elevate your business online.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><circle cx="12" cy="12" r="10" stroke-width="2"/><path d="M2 12h20M12 2a15 15 0 010 20M12 2a15 15 0 000 20" stroke-width="2"/></svg>`
+    description: "Modern, responsive, and scalable websites built to elevate your business.",
+    icon: `
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-14 h-14 text-[#8A655A]" fill="none" viewBox="0 0 64 64" stroke="currentColor">
+        <circle cx="32" cy="32" r="22" stroke-width="1.8" class="opacity-80"/>
+        <path d="M10 32h44" stroke-width="1.8"/>
+        <path d="M32 10c8 8 8 36 0 44M32 10c-8 8-8 36 0 44" stroke-width="1.8"/>
+        <circle cx="32" cy="32" r="3" fill="currentColor" stroke="none"/>
+      </svg>`
   },
   {
     id: "service-002",
     title: "App Development",
     description: "User-friendly mobile applications designed for performance across all devices.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><rect x="7" y="2" width="10" height="20" rx="2" stroke-width="2"/><path d="M11 18h2" stroke-width="2"/></svg>`
+    icon: ` <svg xmlns="http://www.w3.org/2000/svg" class="w-14 h-14 text-[#8A655A]" fill="none" viewBox="0 0 64 64" stroke="currentColor">
+        <rect x="20" y="10" width="24" height="44" rx="6" stroke-width="1.8"/>
+        <circle cx="32" cy="46" r="2" fill="currentColor" stroke="none"/>
+        <path d="M26 16h12" stroke-width="1.8"/>
+        <path d="M18 22l-6 6m34-6l6 6" stroke-width="1.4" class="opacity-60"/>
+      </svg>`
   },
   {
     id: "service-003",
     title: "Cloud Solutions",
     description: "Reliable cloud infrastructure solutions for secure and scalable operations.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M20 17.5A4.5 4.5 0 0017.5 9a5.5 5.5 0 00-10.9 1A4 4 0 004 17.5h16z" stroke-width="2"/></svg>`
+    icon: `
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-14 h-14 text-[#8A655A]" fill="none" viewBox="0 0 64 64" stroke="currentColor">
+        <path d="M20 42h24a10 10 0 0 0 0-20 14 14 0 0 0-27-3A9 9 0 0 0 20 42z" stroke-width="1.8"/>
+        <path d="M24 32h16M28 26h8" stroke-width="1.8"/>
+        <circle cx="48" cy="22" r="2.5" fill="currentColor" stroke="none"/>
+      </svg>`
   },
   {
     id: "service-004",
     title: "UI/UX Design",
-    description: "Beautiful and intuitive interfaces that improve customer engagement.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M9.75 3v2.25M14.25 3v2.25M4.5 8.25h15M6 5.25h12A1.5 1.5 0 0119.5 6.75v10.5A1.5 1.5 0 0118 18.75H6A1.5 1.5 0 014.5 17.25V6.75A1.5 1.5 0 016 5.25z" stroke-width="2"/></svg>`
+    description: "Beautiful and intuitive interfaces that enhance customer focus & engagement.",
+    icon: `
+     <svg xmlns="http://www.w3.org/2000/svg" class="w-14 h-14 text-[#8A655A]" fill="none" viewBox="0 0 64 64" stroke="currentColor">
+     <rect x="14" y="14" width="36" height="28" rx="4" stroke-width="1.8"/>
+     <path d="M22 24h20M22 30h14M26 50l6-8 6 8" stroke-width="1.8"/>
+     <circle cx="46" cy="22" r="2" fill="currentColor" stroke="none"/>
+      </svg>`
   },
-  {
-    id: "service-005",
-    title: "Digital Marketing",
-    description: "Strategic marketing campaigns to increase reach, traffic, and conversions.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M3 15a4 4 0 014-4h2l3-3 3 3h2a4 4 0 010 8H7a4 4 0 01-4-4z" stroke-width="2"/></svg>`
-  },
-  {
-    id: "service-006",
-    title: "Maintenance & Support",
-    description: "Ongoing technical support to keep your digital products running smoothly.",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-[#2d70c6]" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M12 8v4l3 3M12 2a10 10 0 100 20 10 10 0 000-20z" stroke-width="2"/></svg>`
-  }
+  
 ];
 
 export default services;

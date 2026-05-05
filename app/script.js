@@ -18,18 +18,18 @@ function updateActiveNav() {
   });
 
   navLinks.forEach((link) => {
-    link.classList.remove("text-[#2d70c6]", "border-[#2d70c6]");
+    link.classList.remove("text-[#A37764]", "border-[#A37764]");
 
     if (link.getAttribute("href") === `#${current}`) {
-      link.classList.add("text-[#2d70c6]", "border-[#2d70c6]");
+      link.classList.add("text-[#A37764]", "border-[#A37764]");
     }
   });
 
   mobileNavLinks.forEach((link) => {
-    link.classList.remove("text-[#2d70c6]");
+    link.classList.remove("text-[#A37764]");
 
     if (link.getAttribute("href") === `#${current}`) {
-      link.classList.add("text-[#2d70c6]");
+      link.classList.add("text-[#A37764]");
     }
   });
 }
@@ -63,18 +63,18 @@ function updateActiveNav() {
   });
 
   navLinks.forEach((link) => {
-    link.classList.remove("text-[#2d70c6]", "border-[#2d70c6]");
+    link.classList.remove("text-[#A37764]", "border-[#A37764]");
 
     if (link.getAttribute("href") === `#${current}`) {
-      link.classList.add("text-[#2d70c6]", "border-[#2d70c6]");
+      link.classList.add("text-[#A37764]", "border-[#A37764]");
     }
   });
 
   mobileNavLinks.forEach((link) => {
-    link.classList.remove("text-[#2d70c6]");
+    link.classList.remove("text-[#A37764]");
 
     if (link.getAttribute("href") === `#${current}`) {
-      link.classList.add("text-[#2d70c6]");
+      link.classList.add("text-[#A37764]");
     }
   });
 }
@@ -135,7 +135,7 @@ form.addEventListener("submit", function(e) {
 //       ${service.icon}
 //     </div>
 
-//     <h3 class="text-xl font-bold mb-3 text-slate-900 dark:text-white">
+//     <h3 class="text-xl font-bold mb-3 text-[#2d2521] dark:text-white">
 //       ${service.title}
 //     </h3>
 
