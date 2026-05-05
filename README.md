@@ -58,6 +58,12 @@
 
 ---
 
+## 🛠️ Others:
+- SVG-Icons are taken from AI
+- Landing button taken from Tailwind CSS Button
+ 
+---
+
 ## ⚙️ Installation & Setup
 
 To run this project locally:
