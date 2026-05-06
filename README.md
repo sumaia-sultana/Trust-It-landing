@@ -51,7 +51,7 @@
 ---
 
 ## 🛠️ Others:
-- SVG-Icons are taken from AI
+- SVG-Icons & Logo are taken from AI
 - Landing button taken from Tailwind CSS Button
  
 ---
@@ -67,4 +67,4 @@ git clone https://github.com/sumaia-sultana/Trust-It-landing.git
 # Open the project folder
 cd TRUST-IT LANDING
 
-# Open index.html in your browser
+# Open index.html with live server in any browser.
